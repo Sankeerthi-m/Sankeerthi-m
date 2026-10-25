@@ -1,104 +1,113 @@
-<!-- Replace every YOUR_USERNAME with your GitHub username -->
+<!--
+  EDIT THESE BEFORE PUSHING (search for each token):
+  LIVE-URL-DEVOPS-KINGDOM / LIVE-URL-WEDDING / LIVE-URL-NARESH  -> your deployed website links
+  Repo links below are guesses (github.com/Sankeerthi-m/<name>) -> fix them if your repo names differ
+  YOUR-LINKEDIN / YOUR-EMAIL / YOUR-PORTFOLIO                   -> your contact links
+  Photo: run `python scripts/make_avatar.py your-photo.jpg` to replace assets/avatar.svg
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Bangaram&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20AWS%20Cloud&descAlignY=60&descSize=22" width="100%" alt="header" />
+<img src="assets/banner.svg" alt="Sankeerthi M — Full-Stack • DevOps • AWS" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Building+production-grade+SaaS+apps;Automating+everything+with+CI%2FCD;Architecting+on+AWS+%E2%98%81%EF%B8%8F;Learning+deep.+Shipping+fast." alt="Typing SVG" />
+<a href="https://github.com/Sankeerthi-m">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3200&pause=900&color=F5D77A&center=true&vCenter=true&width=760&lines=Building+production-grade+SaaS+%F0%9F%91%91;Automating+everything+with+CI%2FCD+%E2%9A%99%EF%B8%8F;Architecting+the+cloud+on+AWS+%E2%98%81%EF%B8%8F;Code+like+royalty.+Ship+like+a+legend." alt="typing" />
 </a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=8a2be2)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=star&color=ff6ec7)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```js
-const bangaram = {
-  role: "Full-Stack Developer & DevOps Engineer",
-  focus: ["Web Development", "DevOps", "AWS Cloud Engineering"],
-  building: "Production-quality SaaS & web applications",
-  currentlyPreparing: "AWS DevOps roles",
-  funFact: "I learn by building real things 🛠️",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,postgres,mongodb&perline=11" alt="dev stack" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux,nginx,git,bash,grafana&perline=11" alt="devops stack" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sankeerthi-m&style=for-the-badge&color=d4af37&labelColor=12040c&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Sankeerthi-m?style=for-the-badge&logo=github&color=7b1230&labelColor=12040c)
+![Stars](https://img.shields.io/github/stars/Sankeerthi-m?style=for-the-badge&color=d4af37&labelColor=12040c)
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center" width="300">
+  <img src="assets/avatar.svg" width="240" alt="Sankeerthi" />
+</td>
+<td>
 
-## 🧊 My 3D Contribution Graph
+### 👑 Welcome to my kingdom
+
+I'm **Sankeerthi**, a full-stack developer who builds production-quality SaaS and web applications.
+
+- 🛠️ Full-stack web development, from polished UI to solid APIs
+- ☁️ DevOps and AWS cloud engineering
+- 🏰 Building **DevOps Kingdom**, a multi-cloud DevOps simulator
+- 📚 Learning deep, shipping clean and complete code
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+
+<h2 align="center">⚜️ Tech Stack Orbit ⚜️</h2>
+
+<div align="center">
+  <img src="assets/skills-orbit.svg" alt="Animated tech stack orbit" width="100%" />
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+
+<h2 align="center">🏆 Featured Projects</h2>
+<p align="center"><sub>Click a card to open the live website</sub></p>
+
+<table align="center">
+<tr>
+<td align="center" valign="top">
+  <a href="https://LIVE-URL-DEVOPS-KINGDOM"><img src="assets/project-devops-kingdom.svg" width="400" alt="DevOps Kingdom" /></a><br/>
+  <a href="https://LIVE-URL-DEVOPS-KINGDOM">🌐 Live Site</a> &nbsp;•&nbsp; <a href="https://github.com/Sankeerthi-m/devops-kingdom">💻 Source</a>
+</td>
+<td align="center" valign="top">
+  <a href="https://LIVE-URL-WEDDING"><img src="assets/project-wedding-planner.svg" width="400" alt="Vasudhaikakutumbam" /></a><br/>
+  <a href="https://LIVE-URL-WEDDING">🌐 Live Site</a> &nbsp;•&nbsp; <a href="https://github.com/Sankeerthi-m/vasudhaikakutumbam">💻 Source</a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" colspan="2">
+  <a href="https://LIVE-URL-NARESH"><img src="assets/project-naresh-it.svg" width="400" alt="Naresh IT Technologies" /></a><br/>
+  <a href="https://LIVE-URL-NARESH">🌐 Live Site</a>
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+
+<h2 align="center">🧊 3D Contribution Graph</h2>
+
+<div align="center">
+  <!-- Created by .github/workflows/profile-3d.yml (run it once from the Actions tab) -->
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+
+<h2 align="center">📊 Royal Stats</h2>
 
 <div align="center">
 
-<!-- Generated automatically by the GitHub Action in .github/workflows/profile-3d.yml -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sankeerthi-m&show_icons=true&hide_border=false&bg_color=12040c&border_color=7b1230&title_color=d4af37&text_color=fff4d6&icon_color=f5d77a&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankeerthi-m&layout=compact&hide_border=false&bg_color=12040c&border_color=7b1230&title_color=d4af37&text_color=fff4d6" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Sankeerthi-m&background=12040c&border=7b1230&ring=d4af37&fire=f5d77a&currStreakNum=fff4d6&currStreakLabel=d4af37&sideNums=fff4d6&sideLabels=d4af37&dates=bfa76a" alt="streak" />
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=8a2be2&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=ff6ec7&currStreakLabel=00f7ff" alt="streak" />
-
-</div>
-
----
-
-## 🏆 Trophies
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12040c?style=for-the-badge&logo=linkedin&logoColor=d4af37&color=12040c&labelColor=7b1230)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-12040c?style=for-the-badge&logo=gmail&logoColor=d4af37&color=12040c&labelColor=7b1230)](mailto:YOUR-EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12040c?style=for-the-badge&logo=vercel&logoColor=d4af37&color=12040c&labelColor=7b1230)](https://YOUR-PORTFOLIO)
 
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f7ff?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12040c,50:7b1230,100:d4af37&height=120&section=footer" width="100%" alt="" />
 
 </div>
